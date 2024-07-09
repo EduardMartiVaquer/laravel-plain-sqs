@@ -1,5 +1,5 @@
 {
-    "name": "dusterio/laravel-plain-sqs",
+    "name": "dusterio/laravel-plain-sqs-laravel-11",
     "type": "library",
     "description": "Custom SQS connector for Laravel that supports custom format JSON",
     "keywords": [
